@@ -45,7 +45,7 @@ Sensors configuration:
 The sensors can be any one of the following:
 - current_power
 - current_consumption
-- total_power
+- total_yield
 - total_consumption
 
 You can create composite sensors, where the sub-sensors will be attributes of the main sensor, e.g.
